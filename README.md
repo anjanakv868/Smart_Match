@@ -26,3 +26,7 @@ OCR Libraries: pdfplumber, PyMuPDF (fitz), Pillow
 Matching Engine: FuzzyWuzzy (thefuzz)
 
 Environment Management: dotenv
+
+How to run this??
+run the streamlit app by:
+    streamlit run app.py
